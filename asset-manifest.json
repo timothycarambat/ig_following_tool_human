@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ig_following_tool_human/static/css/main.121494e1.css",
+    "main.js": "/ig_following_tool_human/static/js/main.0b9f55bc.js",
+    "static/js/787.e4bca97c.chunk.js": "/ig_following_tool_human/static/js/787.e4bca97c.chunk.js",
+    "index.html": "/ig_following_tool_human/index.html",
+    "main.121494e1.css.map": "/ig_following_tool_human/static/css/main.121494e1.css.map",
+    "main.0b9f55bc.js.map": "/ig_following_tool_human/static/js/main.0b9f55bc.js.map",
+    "787.e4bca97c.chunk.js.map": "/ig_following_tool_human/static/js/787.e4bca97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.121494e1.css",
+    "static/js/main.0b9f55bc.js"
+  ]
+}
